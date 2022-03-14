@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @taiguin
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on codes
+- 💞️ I’m looking to collaborate on code
 - 📫 How to reach me: thiago.vmatos@hotmail.com
 
 <!---
