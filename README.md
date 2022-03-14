@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @taiguin
 - 👀 I’m interested in code
-- 🌱 I’m currently learning Java, Android Studio
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on codes
 - 📫 How to reach me: thiago.vmatos@hotmail.com
 
