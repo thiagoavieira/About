@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taiguin
+- 👋 Hi, I’m @Thiago-A-Vieira
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on code
